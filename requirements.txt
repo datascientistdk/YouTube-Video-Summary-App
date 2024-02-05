@@ -1,0 +1,5 @@
+youtube_transcript_api
+Streamlit
+google-generativeai
+python-dotenv
+pathlib
